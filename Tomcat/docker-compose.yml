@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  tomcat:
+    container_name: my-tomcat
+    ports:
+      - "8888:8080"
+    volumes:
+      - "~/Desktop/Jenkins_home_desktop/workspace:/usr/local/tomcat/webapps"
+    image: "tomcat:9.0"
