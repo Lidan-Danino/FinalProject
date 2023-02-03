@@ -9,7 +9,7 @@ Integer.parseInt(request.getParameter("ini_len")); } catch (Exception e) { } if
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Snake v1.0</title>
+    <title>Snake</title>
     <script type="text/javascript">
       window.onload = function(){
 
