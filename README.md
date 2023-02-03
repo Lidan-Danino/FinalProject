@@ -1,3 +1,3 @@
 # FinalProject
-Lidan Danino
-Niv Netanel
+Lidan Danino, 
+ Niv Netanel
